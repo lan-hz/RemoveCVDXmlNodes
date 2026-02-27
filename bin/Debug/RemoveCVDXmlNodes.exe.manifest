@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RemoveCVDXmlNodes.exe" size="27544">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RemoveCVDXmlNodes.exe" size="26624">
       <assemblyIdentity name="RemoveCVDXmlNodes" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>y0ZhyzdnKnNGhl2RNKqWEM0WCwqz/0/e1K3jH1fcx5A=</dsig:DigestValue>
+        <dsig:DigestValue>W/ZgX2R0T8e/fIu72P2PNqoGximYWGTGbLc8humD6RU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
