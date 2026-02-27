@@ -66,7 +66,7 @@ namespace RemoveCVDXmlNodes
                 xmlDoc.Load(xmlFilePath);
 
                 // 定义要删除的标签列表
-                string[] targetTags = { "itemSource", "cargoAssetRef", "StorePercent","itemTypeString","assetRef" };
+                string[] targetTags = { "itemSource", "cargoAssetRef", "StorePercent","itemTypeString","assetRef", "asset"};
 
                 // 从根节点开始递归删除目标标签
                 if (xmlDoc.DocumentElement != null)
